@@ -1,8 +1,8 @@
 ---
-title: Image gallery
-description: Create beautiful interactive image gallery using Markdown
-date: 2023-08-26 00:00:00+0000
-image: 2.jpg
+title: 作品图片
+description: 个人作品
+date: 2026-06-26 00:00:00+0000
+image: 01.jpg
 ---
 
 
