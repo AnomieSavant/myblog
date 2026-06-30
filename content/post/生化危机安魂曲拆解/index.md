@@ -3,7 +3,7 @@ title: 《生化危机：安魂曲》系统拆解与玩法解析
 description: 游戏拆解案
 slug: game
 date: 2026-06-25 00:00:00+0000
-image: cover.jpg
+image: 1.jpg
 
 tags:
     - 拆解案
