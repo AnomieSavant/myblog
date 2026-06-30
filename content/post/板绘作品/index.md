@@ -9,3 +9,10 @@ image: 01.jpg
 ## SAI、CSP、PS板绘作品
 
 ![Image 1](01.jpg) ![Image 2](02.jpg)
+
+
+## blender作品
+
+![Image 3](03.jpg) ![Image 4](04.jpg)
+
+![Image 5](05.jpg)
